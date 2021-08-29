@@ -240,7 +240,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit Website",
-          url: "https://debrismanagement.com"
+          url: "https://debrismanagement.com/"
         }
         //  you can add extra buttons here.
       ]
@@ -264,6 +264,17 @@ const bigProjects = {
         {
           name: "Visit Website",
           url: "https://inmateinbox.net/"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/forcura.jpg"),
+      projectName: "Forcura",
+      projectDesc: "Forcura Empowers Your Business To Thrive And Provide Better Patient Care.best-in-class care coordination platform simplifies document workflows, data exchanges, and secure communications from any device – all while interfacing seamlessly with your existing systems",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://www.forcura.com/"
         }
       ]
     }

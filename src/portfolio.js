@@ -201,6 +201,21 @@ const workExperiences = {
         "Html,css Jquery Mobile with Cordova for Hybrid App Development"
       ]
     }, 
+    {
+      role: "Software/Mobile Application Developer",
+      company: "Open Source Academy India(P) Ltd",
+      companylogo: require("./assets/images/osaipl.jpg"),
+      date: "Dec 2015 – Aug 2019",
+      desc: "Working as a mobile app developer to create new applications as well as supporting existing applications based on requirements",
+      descBullets: [
+        "Java for Native App Development",
+        "Html,css Jquery Mobile with Cordova for Hybrid App Development",
+        "ASP.NET for Front End Design Support",
+        "C#.Net / VB.Net for Code Behind",
+        "SQL Server for Database",
+        "Crystal Reports for Reporting"
+      ]
+    }, 
   ]
 };
 
@@ -209,7 +224,7 @@ To know how to get github key look at readme.md */
 
 const openSource = {
   showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Some big projects you have worked on
@@ -219,28 +234,40 @@ const bigProjects = {
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/debris.png"),
+      projectName: "Debris",
+      projectDesc: "Eisman & Russo – provides pre-and post-disaster recovery services as well as FEMA and FHWA reimbursement applications and grant writing.",
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://saayahealth.com/"
+          url: "https://debrismanagement.com"
         }
         //  you can add extra buttons here.
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/mc.png"),
+      projectName: "McDaniel",
+      projectDesc: "McDaniel Supply Company, Inc. contracts with local, county and state law enforcement agencies to provide commissary services.  As part of the commissary services provided to the facilities it allow inmates families and friends to utilize our website and kiosk equipment to deposit funds on an inmate’s account.",
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://nextu.se/"
+          url: "https://www.mcdanielsupplyco.net/"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/ii.png"),
+      projectName: "Inmate Inbox",
+      projectDesc: "Send & Receive Secure Electronic Messages With Your Loved Ones There’s no better way to stay connected with your loved one or friend than real time messages.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://inmateinbox.net/"
         }
       ]
     }
+
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -300,7 +327,7 @@ const achievementSection = {
       ]
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Blogs Section
@@ -324,7 +351,7 @@ const blogSection = {
         "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Talks Sections
@@ -343,7 +370,7 @@ const talkSection = {
       event_url: "https://www.facebook.com/events/2339906106275053/"
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Podcast Section
@@ -356,22 +383,22 @@ const podcastSection = {
   podcast: [
     "https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+92-3243454077",
-  email_address: "saadpasta70@gmail.com"
+  number: "+91-9698180268",
+  email_address: "saravanakumar.tsm@gmail.com"
 };
 
 // Twitter Section
 
 const twitterDetails = {
   userName: "twitter", //Replace "twitter" with your twitter username without @
-  display: true // Set true to display this section, defaults to false
+  display: false // Set true to display this section, defaults to false
 };
 
 export {

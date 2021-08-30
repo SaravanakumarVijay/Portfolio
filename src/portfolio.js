@@ -248,7 +248,7 @@ const bigProjects = {
     {
       image: require("./assets/images/mc.png"),
       projectName: "McDaniel",
-      projectDesc: "McDaniel Supply Company, Inc. contracts with local, county and state law enforcement agencies to provide commissary services.  As part of the commissary services provided to the facilities it allow inmates families and friends to utilize our website and kiosk equipment to deposit funds on an inmate’s account.",
+      projectDesc: "McDaniel Supply Company, Inc. contracts with local, county and state law enforcement agencies services to inmates families and friends to utilize our website and kiosk equipment to deposit funds on an inmate’s account.",
       footerLink: [
         {
           name: "Visit Website",
@@ -277,7 +277,62 @@ const bigProjects = {
           url: "https://www.forcura.com/"
         }
       ]
-    }
+    },
+    {
+      image: require("./assets/images/Refelexion-home.jpg"),
+      projectName: "Reflexion CAFM",
+      projectDesc: "Reflexion CAFM System specifically designed for FM Services Providers and is an ideal application for managing FM contracts and will facilitate the FM business in serving their end customers better and meeting their business objectives.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://latticegulf.com/software/"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/Refelexion-home.jpg"),
+      projectName: "Reflexion MP",
+      projectDesc: "Reflexion Maintenance & Projects is a fully Integrated Application System designed for companies like Elevators, Fire Safety, HVAC Contractors delivering Maintenance & Projects Services",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "http://latticegulf.com/reflexion-mp/"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/Refelexion-home.jpg"),
+      projectName: "Reflexion FieldINSPECT",
+      projectDesc: "Reflexion FieldINSPECT is a track and trace location and web-based asset management solution. It facilitates multiple users, empowers business processes with auditing, controlling, planning, scheduling, and assigning audits",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "http://latticegulf.com/reflexion-fieldinspect/"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/al.jpg"),
+      projectName: "Integrated Facility Management",
+      projectDesc: "Whether you are a corporate looking to focus on your core business or a property owner/owners association seeking to protect your investment, we as a single-source provider of the complete spectrum of facilities services can help you maximise your built assets, lower operating costs and simplify overall management. ",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://alshirawifm.com/services.html"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/mplus.jpg"),
+      projectName: "Mplus",
+      projectDesc: "mplus provides a full range of home and property maintenance services across Dubai and Abu Dhabi for residential, retail and commercial customers",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://www.mplus.ae/"
+        }
+      ]
+    } 
 
   ],
   display: true // Set false to hide this section, defaults to true

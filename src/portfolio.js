@@ -5,10 +5,17 @@
 // Summary And Greeting Section
 
 import emoji from "react-easy-emoji";
+import splash from "./assets/lottie/splash.json"
+const splashScreen = {
+  enabled: true, // set false to disable splash screen
+  animation: splash,
+  duration: 3000, // Set animation duration as per your animation
+}
 
 const illustration = {
   animated: true // set to false to use static SVG
 };
+
 
 const greeting = {
   username: "SaravanaKumar",
@@ -468,6 +475,7 @@ const twitterDetails = {
 };
 
 export {
+  splashScreen,
   illustration,
   greeting,
   socialMediaLinks,

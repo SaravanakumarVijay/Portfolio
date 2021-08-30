@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a74a80e59187e20906e7048ffb1171ca",
+    "revision": "0ebbda595a9d150e9f55f79a8f55e333",
     "url": "/Portfolio/index.html"
   },
   {
-    "revision": "6d90a20b42d2d4e4d2d3",
+    "revision": "718a38a71ea513d016eb",
     "url": "/Portfolio/static/css/3.25727338.chunk.css"
   },
   {
-    "revision": "9012ca25c01adc601fb4",
+    "revision": "1f7391c3bf6c5559ee52",
     "url": "/Portfolio/static/css/4.a8329f31.chunk.css"
   },
   {
-    "revision": "de6ffe83a567d36157a7",
-    "url": "/Portfolio/static/css/main.0ccc25ad.chunk.css"
+    "revision": "e6dbbd4e68c3f0172dea",
+    "url": "/Portfolio/static/css/main.f4abc1ae.chunk.css"
   },
   {
-    "revision": "5bb8b7498dbcd0abc61c",
-    "url": "/Portfolio/static/js/2.cd6f6a9b.chunk.js"
+    "revision": "a9f67e016a1f09cf73ac",
+    "url": "/Portfolio/static/js/2.42d2b6c1.chunk.js"
   },
   {
     "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/Portfolio/static/js/2.cd6f6a9b.chunk.js.LICENSE.txt"
+    "url": "/Portfolio/static/js/2.42d2b6c1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6d90a20b42d2d4e4d2d3",
-    "url": "/Portfolio/static/js/3.15dfaaa3.chunk.js"
+    "revision": "718a38a71ea513d016eb",
+    "url": "/Portfolio/static/js/3.6965454e.chunk.js"
   },
   {
-    "revision": "9012ca25c01adc601fb4",
-    "url": "/Portfolio/static/js/4.9b7ac49d.chunk.js"
+    "revision": "1f7391c3bf6c5559ee52",
+    "url": "/Portfolio/static/js/4.351b1309.chunk.js"
   },
   {
-    "revision": "de6ffe83a567d36157a7",
-    "url": "/Portfolio/static/js/main.36bdeff7.chunk.js"
+    "revision": "e6dbbd4e68c3f0172dea",
+    "url": "/Portfolio/static/js/main.ab9d0d15.chunk.js"
   },
   {
-    "revision": "93bcf6c0db4db1f2e474",
-    "url": "/Portfolio/static/js/runtime-main.7a40a45d.js"
+    "revision": "82e3c1e07d768dcc76ed",
+    "url": "/Portfolio/static/js/runtime-main.d296dae3.js"
   },
   {
     "revision": "a3752c4bf72688b3db38d0911cf75f61",
@@ -46,10 +46,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/Portfolio/static/media/Montserrat-Regular.ee653992.ttf"
-  },
-  {
-    "revision": "47a7a717679b640ceb1b05d38c480a61",
-    "url": "/Portfolio/static/media/codeInLogo.47a7a717.webp"
   },
   {
     "revision": "51cf7192327488da3d2a171280680c16",
@@ -62,10 +58,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "59389695208d7454c6607bed51ed4316",
     "url": "/Portfolio/static/media/developerActivity.59389695.svg"
-  },
-  {
-    "revision": "e79c639294c805688be731921368c8f8",
-    "url": "/Portfolio/static/media/googleAssistantLogo.e79c6392.webp"
   },
   {
     "revision": "925057e556cc81bf5043c98956debaf6",
@@ -90,14 +82,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "37d5878517259a12bdd4c8fa52b41108",
     "url": "/Portfolio/static/media/mplus.37d58785.jpg"
-  },
-  {
-    "revision": "ee62cb58630f29a6e6201b49d4c03728",
-    "url": "/Portfolio/static/media/pwaLogo.ee62cb58.webp"
-  },
-  {
-    "revision": "13780cdd0144cacdef25486e2c2503f8",
-    "url": "/Portfolio/static/media/talksCardBack.13780cdd.svg"
   },
   {
     "revision": "be4008548c6a8f32fb166f1169882227",

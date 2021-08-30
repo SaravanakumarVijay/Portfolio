@@ -15,7 +15,7 @@ const greeting = {
   username: "SaravanaKumar",
   title: "Hi all, I'm Saravanan",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with Java / Kotlin / JavaScript / Reactjs / Nodejs / Angular / Angularjs and some other cool libraries and frameworks."
+    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with Java / Kotlin / JavaScript / JQuery / Reactjs / Nodejs / Angular / Angularjs and some other cool libraries and frameworks."
   ),
   resumeLink:
     "https://docs.google.com/document/d/183g1WiAVbnb6Pbjopv8gHI5dZNTdWUyw/edit?usp=sharing",
@@ -320,6 +320,17 @@ const bigProjects = {
         {
           name: "Visit Website",
           url: "https://www.mplus.ae/"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/uc.png"),
+      projectName: "UCEazy",
+      projectDesc: "UCEazy is an virtual academy headquartered in Palo Alto, California. This app simplify the college admissions process for students whose parents were born outside the U.S. it's provide easy access to top-quality admissions experts and resources, while setting the foundation for 8-10th graders all the way through college admissions process.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://uceazy.com/"
         }
       ]
     } 

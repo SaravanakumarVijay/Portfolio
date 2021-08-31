@@ -228,7 +228,7 @@ const bigProjects = {
     {
       image: require("./assets/images/debris.png"),
       projectName: "Debris",
-      projectDesc: "Eisman & Russo – provides pre-and post-disaster recovery services as well as FEMA and FHWA reimbursement applications and grant writing.",
+      projectDesc: "Native Android Application",
       footerLink: [
         {
           name: "Visit Website",
@@ -239,7 +239,7 @@ const bigProjects = {
     {
       image: require("./assets/images/mc.png"),
       projectName: "McDaniel",
-      projectDesc: "McDaniel Supply Company, Inc. contracts with local, county and state law enforcement agencies services to inmates families and friends to utilize our website and kiosk equipment to deposit funds on an inmate’s account.",
+      projectDesc: "Native Android Application",
       footerLink: [
         {
           name: "Visit Website",
@@ -250,7 +250,7 @@ const bigProjects = {
     {
       image: require("./assets/images/ii.png"),
       projectName: "Inmate Inbox",
-      projectDesc: "Send & Receive Secure Electronic Messages With Your Loved Ones There’s no better way to stay connected with your loved one or friend than real time messages.",
+      projectDesc: "Hybrid Mobile Application",
       footerLink: [
         {
           name: "Visit Website",
@@ -261,7 +261,7 @@ const bigProjects = {
     {
       image: require("./assets/images/forcura.jpg"),
       projectName: "Forcura",
-      projectDesc: "Forcura Empowers Your Business To Thrive And Provide Better Patient Care.best-in-class care coordination platform simplifies document workflows, data exchanges, and secure communications from any device – all while interfacing seamlessly with your existing systems",
+      projectDesc: "Native Mobile Application",
       footerLink: [
         {
           name: "Visit Website",
@@ -272,7 +272,7 @@ const bigProjects = {
     {
       image: require("./assets/images/Refelexion-home.jpg"),
       projectName: "Reflexion CAFM",
-      projectDesc: "Reflexion CAFM System specifically designed for FM Services Providers and is an ideal application for managing FM contracts and will facilitate the FM business in serving their end customers better and meeting their business objectives.",
+      projectDesc: "ASP.Net Web Application",
       footerLink: [
         {
           name: "Visit Website",
@@ -283,7 +283,7 @@ const bigProjects = {
     {
       image: require("./assets/images/Refelexion-home.jpg"),
       projectName: "Reflexion MP",
-      projectDesc: "Reflexion Maintenance & Projects is a fully Integrated Application System designed for companies like Elevators, Fire Safety, HVAC Contractors delivering Maintenance & Projects Services",
+      projectDesc: "ASP.Net Web Application",
       footerLink: [
         {
           name: "Visit Website",
@@ -294,7 +294,7 @@ const bigProjects = {
     {
       image: require("./assets/images/Refelexion-home.jpg"),
       projectName: "Reflexion FieldINSPECT",
-      projectDesc: "Reflexion FieldINSPECT is a track and trace location and web-based asset management solution. It facilitates multiple users, empowers business processes with auditing, controlling, planning, scheduling, and assigning audits",
+      projectDesc: "ASP.Net Web Application",
       footerLink: [
         {
           name: "Visit Website",
@@ -305,7 +305,7 @@ const bigProjects = {
     {
       image: require("./assets/images/al.jpg"),
       projectName: "Integrated Facility Management",
-      projectDesc: "Whether you are a corporate looking to focus on your core business or a property owner/owners association seeking to protect your investment, we as a single-source provider of the complete spectrum of facilities services can help you maximise your built assets, lower operating costs and simplify overall management. ",
+      projectDesc: "C# Windows Application",
       footerLink: [
         {
           name: "Visit Website",
@@ -316,7 +316,7 @@ const bigProjects = {
     {
       image: require("./assets/images/mplus.jpg"),
       projectName: "Mplus",
-      projectDesc: "mplus provides a full range of home and property maintenance services across Dubai and Abu Dhabi for residential, retail and commercial customers",
+      projectDesc: "ASP.Net Web Application",
       footerLink: [
         {
           name: "Visit Website",
@@ -327,7 +327,7 @@ const bigProjects = {
     {
       image: require("./assets/images/uc.png"),
       projectName: "UCEazy",
-      projectDesc: "UCEazy is an virtual academy headquartered in Palo Alto, California. This app simplify the college admissions process for students whose parents were born outside the U.S. it's provide easy access to top-quality admissions experts and resources, while setting the foundation for 8-10th graders all the way through college admissions process.",
+      projectDesc: "Hybrid Mobile Application",
       footerLink: [
         {
           name: "Visit Website",

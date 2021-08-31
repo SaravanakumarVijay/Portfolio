@@ -1,5 +1,6 @@
 import emoji from "react-easy-emoji";
 import splash from "./assets/lottie/splash.json"
+
 const splashScreen = {
   enabled: true, 
   animation: splash,

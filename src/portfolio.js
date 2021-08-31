@@ -165,7 +165,7 @@ const workExperiences = {
       role: "Mobile Application Developer",
       company: "Majestic People Infotech",
       companylogo: require("./assets/images/majestic.png"),
-      date: "June 2020 – Present",
+      date: "June 2020 – Aug 2021",
       desc: "Working as a mobile app developer to create new applications as well as supporting existing applications based on requirements",
       descBullets: [
         "Java / Kotlin for Native App Development",
